@@ -2,7 +2,7 @@
 
 #This is instagram crawl
  what you can do with this program :
- - get instagram post/profile/hastag/comment/likes data without using Instagram API. the code in 'CrawlIG.py'
+ - get instagram post/profile/hastag/comment/likes data without using Instagram API. the code in 'Crawl_data.py'
  
 #Install
  - install instaloader, 'pip Install Instaloader'
